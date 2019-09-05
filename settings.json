@@ -1,0 +1,18 @@
+{
+    "workbench.colorTheme": "Tomorrow Night Blue",
+    "emmet.syntaxProfiles": {
+        "javascript":"html"
+    },
+    "emmet.includeLanguages":{
+        "javascript":"jsx",
+        "javascript": "javascriptreact"
+        },
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.triggerExpansionOnTab": true,
+    "editor.quickSuggestions": {
+        "other": true,
+        "comments": false,
+        "strings": false
+    }
+        
+}
